@@ -18,6 +18,10 @@
                 <Button Click="ResButton_Click"
                         Content="set res" />
             </StatusBarItem>
+            <StatusBarItem>
+                <Button Click="NewButton_Click"
+                        Content="set new" />
+            </StatusBarItem>
         </StatusBar>
         <Grid>
             <Grid.ColumnDefinitions>
